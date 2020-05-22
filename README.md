@@ -8,5 +8,10 @@ To use this script, create a folder "src" where to put all the original images. 
 
 Then create an "out" folder where the converted images will be located.
 The script will take all the images in src folder, convert them and put into out folder.
+The two folders need to be at the same level of the script.
 
 Simply run the script and enjoy!
+
+Todos:
+- pass backgorund color as a parameter
+- pass src and out folder as a parameter
